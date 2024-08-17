@@ -1,0 +1,12 @@
+block: "end_stone"
+
+drops:
+  - item: "diamond"
+    chance: 1   # 1 chance sur 100 de dropper un diamant
+    count: 1
+  - item: "dirt"
+    chance: 5   # 5 chances sur 100 de dropper de la dirt
+    count: 1
+  - item: "cobblestone"
+    chance: 94  # 94 chances sur 100 de dropper du cobblestone
+    count: 1
