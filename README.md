@@ -1,4 +1,5 @@
 # RandomOre
+[Télécharger le plugin](https://github.com/nephelia-shop/RandomOre/raw/main/RandomOre.phar)
 
 ## Description
 **RandomOre**: personnaliser les drops d'un bloc. 
